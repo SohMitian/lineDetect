@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\opencvproject\edgedetect\packages\opencv.win.native.310.3.0\build\native\include\opencv2\core\mat.hpp(1914): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencvproject\edgedetect\packages\opencv.win.native.310.3.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencvproject\edgedetect\packages\opencv.win.native.310.3.0\build\native\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencvproject\edgedetect\packages\opencv.win.native.310.3.0\build\native\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+d:\opencvproject\edgedetect\edgedetect\main.cpp(64): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  edgeDetect.vcxproj -> D:\opencvProject\edgeDetect\x64\Debug\edgeDetect.exe
+  edgeDetect.vcxproj -> D:\opencvProject\edgeDetect\x64\Debug\edgeDetect.pdb (Full PDB)
